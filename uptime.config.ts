@@ -202,7 +202,7 @@ const workerConfig: WorkerConfig = {
       id: 'live_ninja',
       name: 'ninja VDO',
       method: 'GET',
-      target: 'https://live.ytcapp.eu.org/media/favicon-32x32.png',
+      target: 'https://live.ytcapp.eu.org/',
       tooltip: '直播工具',
       statusPageLink: 'https://live.ytcapp.eu.org/',
       hideLatencyChart: false,
